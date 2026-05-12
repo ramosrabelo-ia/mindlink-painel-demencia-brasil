@@ -1,4 +1,11 @@
-# MindLink — Painel Analítico-Preditivo de Demência no Brasil
+# MindLink — FASE 02 #
+
+MindLink é um protótipo técnico demonstrativo desenvolvido para o Challenge Oracle + FIAP 2026.  
+O projeto explora uma abordagem analítico-preditiva para estimar pressão hospitalar associada à demência no Brasil, usando dados públicos, arquitetura Oracle e visualização interativa.
+
+🔗 Demo: https://ramosrabelo-ia.github.io/mindlink-painel-demencia-brasil/
+
+Painel Analítico-Preditivo de Demência no Brasil
 
 Protótipo técnico demonstrativo da **Sprint 2 — Arquitetura** do projeto MindLink, desenvolvido pela equipe **She Leads** no Challenge Oracle + FIAP 2026.
 
