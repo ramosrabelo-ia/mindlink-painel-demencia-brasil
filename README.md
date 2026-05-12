@@ -40,21 +40,11 @@ npm run dev
 4. Selecionar **GitHub Actions**.
 5. Aguardar a Action finalizar.
 
-URL esperada:
+URL:
 
 ```text
 https://ramosrabelo-ia.github.io/mindlink-painel-demencia-brasil/
 ```
-
-## Ajuste se mudar o nome do repositório
-
-Em `vite.config.js`, troque:
-
-```js
-base: '/mindlink-painel-demencia-brasil/',
-```
-
-para o nome correto do repositório.
 
 ## Próxima etapa
 
